@@ -1,0 +1,12 @@
+{
+  "name": "mp-card-moderno-de-imobiliaria",
+  "version": "1.0.0",
+  "description": "Este mini-projeto consiste na criação de um componente de interface para exibir informações de um imóvel em um card. O objetivo é praticar a construção de interfaces utilizando HTML e CSS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adalberto",
+  "license": "ISC",
+  "dev": ""
+}
